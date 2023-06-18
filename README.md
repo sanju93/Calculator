@@ -45,6 +45,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 3. npm start.
 
 #`GUI of Project`
-1. Enter the value for operation.
+1. Enter the value for operation.<img width="960" alt="2023-06-18 (1)" src="https://github.com/sanju93/Calculator/assets/104681023/b0b279ca-5677-44e3-8c7a-387a9816e0d2">
+
 2. add a opeartion.
 3. Result.
