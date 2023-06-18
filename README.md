@@ -46,6 +46,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 #`GUI of Project`
 1. Enter the value for operation.<img width="960" alt="2023-06-18 (1)" src="https://github.com/sanju93/Calculator/assets/104681023/b0b279ca-5677-44e3-8c7a-387a9816e0d2">
-
-2. add a opeartion.
-3. Result.
+<img width="960" alt="2023-06-18 (3)" src="https://github.com/sanju93/Calculator/assets/104681023/729c319f-a4e0-439e-9653-5677216e5e0e">
+2. Result.
+<img width="960" alt="2023-06-18 (2)" src="https://github.com/sanju93/Calculator/assets/104681023/345328ea-f889-499d-898c-0d528cf4980d">
+<img width="960" alt="2023-06-18 (4)" src="https://github.com/sanju93/Calculator/assets/104681023/c6eefa7b-a044-489b-a94a-1ecb59be7690">
