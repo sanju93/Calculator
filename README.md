@@ -40,7 +40,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 2. install react.
 
 #` How to start a project`
-1. git clone ''.
+1. git clone 'https://github.com/sanju93/Calculator.git'.
 2. npm i.
 3. npm start.
 
